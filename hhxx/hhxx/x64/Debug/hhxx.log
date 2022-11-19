@@ -1,31 +1,8 @@
 ﻿  ttxs.c
-C:\code\hhxx\hhxx\ttxs.c(7,2): warning C4013: “scanf”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(9,2): warning C4013: “printf”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(18,5): error C2084: 函数“int main()”已有主体
-C:\code\hhxx\hhxx\ttxs.c(2): message : 参见“main”的前一个定义
-C:\code\hhxx\hhxx\ttxs.c(34,17): warning C4013: “strlen”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(163,15): warning C4013: “getchar”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(163,31): error C2065: “EOF”: 未声明的标识符
-C:\code\hhxx\hhxx\ttxs.c(167,3): warning C4013: “putchar”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(261,3): warning C4013: “Sleep”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(262,3): warning C4013: “system”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(285,21): warning C4013: “sqrt”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(320,18): warning C4013: “rand”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(356,2): warning C4013: “srand”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(356,22): warning C4013: “time”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(356,31): error C2065: “NULL”: 未声明的标识符
-C:\code\hhxx\hhxx\ttxs.c(515,5): error C2371: “hanshu”: 重定义；不同的基类型
-C:\code\hhxx\hhxx\ttxs.c(420): message : 参见“hanshu”的声明
-C:\code\hhxx\hhxx\ttxs.c(519,19): warning C4020: “hanshu”: 实参太多
-C:\code\hhxx\hhxx\ttxs.c(527,13): warning C4020: “hanshu”: 实参太多
-C:\code\hhxx\hhxx\ttxs.c(527,3): error C2120: 对于所有类型“void”非法
-C:\code\hhxx\hhxx\ttxs.c(628,14): warning C4013: “strtok”未定义；假设外部返回 int
-C:\code\hhxx\hhxx\ttxs.c(630,19): error C2065: “NULL”: 未声明的标识符
-C:\code\hhxx\hhxx\ttxs.c(630,23): warning C4047: “=”:“char *”与“int”的间接级别不同
-C:\code\hhxx\hhxx\ttxs.c(632,19): error C2065: “NULL”: 未声明的标识符
-C:\code\hhxx\hhxx\ttxs.c(632,22): warning C4047: “=”:“char *”与“int”的间接级别不同
-C:\code\hhxx\hhxx\ttxs.c(634,19): error C2065: “NULL”: 未声明的标识符
-C:\code\hhxx\hhxx\ttxs.c(634,23): warning C4047: “=”:“char *”与“int”的间接级别不同
-C:\code\hhxx\hhxx\ttxs.c(628,1): warning C4047: “初始化”:“char *”与“int”的间接级别不同
-C:\code\hhxx\hhxx\ttxs.c(657,10): error C2057: 应输入常量表达式
-C:\code\hhxx\hhxx\ttxs.c(657,11): error C2466: 不能分配常量大小为 0 的数组
+C:\code\hhxx\hhxx\ttxs.c(832,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\code\hhxx\hhxx\ttxs.c(834,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\code\hhxx\hhxx\ttxs.c(837,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\code\hhxx\hhxx\ttxs.c(840,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\code\hhxx\hhxx\ttxs.c(845,69): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\code\hhxx\hhxx\ttxs.c(850,85): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  hhxx.vcxproj -> C:\code\hhxx\x64\Debug\hhxx.exe
